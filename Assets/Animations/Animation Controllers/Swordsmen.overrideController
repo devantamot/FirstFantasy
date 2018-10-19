@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Swordsmen
+  m_Controller: {fileID: 9100000, guid: 4da47be8ccf952942887a59be057da58, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 62b63e0d99194e54a9a7df11938d2cd4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8943dbe4318ee4640be01cea3713d243, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 39484596c2b33ff4a90a1dfcba98942c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f1817b8e52874c74ca9bbda1345d7133, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 818ed9ce044712d4e84a2d3c4a22ec49, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 13ecf07aaefc92b4db4ac3d3e6747b4a, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a133135e56eece94e91adef02e0ea00c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 540868469b587f04da8d7a0111fc8913, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 99daee48aea91074f826cec6f5faeeef, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 749a50838dfa28241b76ade5035f306f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3848488143ff7b04ab8378fc2524e643, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: bc9f0f5b3bde1be439cfae7dc828917d, type: 2}
